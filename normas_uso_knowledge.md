@@ -1,4 +1,4 @@
-# Normas de uso de los aeropuertos
+# Normas de uso de los aeropuertos
 
 En Aena, trabajamos cada día para ofrecerte una estancia segura en nuestras instalaciones y una experiencia de calidad. Para lograrlo, es necesaria tu colaboración evitando comportamientos que alteren la buena marcha del aeropuerto o causen molestias a otros usuarios.
 
