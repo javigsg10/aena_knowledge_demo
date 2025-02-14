@@ -83,6 +83,9 @@ Departamento de Estadísticas
 | LONDRES-LUTON                | 1.127.841   | 11,9%  |
 | Total Red Aena               | 24.999.784  | 6,2%   |
 
+Todos los datos son sobre el total. - Sin tráfico el año anterior
+El total de pasajeros del aeropuerto de Londres-Luton solo incluye los pasajeros comerciales, excluyendo los niños menores de 2 años
+
 
 ### OPERACIONES
 |                                | OPERACIONES   | OPERACIONES     |
@@ -163,10 +166,6 @@ Departamento de Estadísticas
 | Total aeropuertos brasileños |   39.031 | -3,4%   |
 | LONDRES-LUTON                |    9.177 | 6,3%    |
 | Total Red Aena               |  222.696 | 3,6%    |
-
-Todos los datos son sobre el total. - Sin tráfico el año anterior
-
-El total de pasajeros del aeropuerto de Londres-Luton solo incluye los pasajeros comerciales, excluyendo los niños menores de 2 años
 
 
 ### MERCANCIAS
