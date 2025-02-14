@@ -1,14 +1,15 @@
-<!-- image -->
-
 ## TRÁFICO DE PASAJEROS, OPERACIONES Y CARGA EN LA RED DE AENA
 
 Dirección de Operaciones y Red de Aeropuertos
 
 Departamento de Estadísticas
+## Mensual: Enero de 2025 LLEGADAS Y SALIDAS
+### PASAJEROS
 
 |                                | PASAJEROS   | PASAJEROS           |
 |--------------------------------|-------------|---------------------|
 | Aeropuertos                    | Total       | % Inc 2025 /s  2024 |
+|--------------------------------|-------------|---------------------|
 | ADOLFO SUÁREZ MADRID-BARAJAS   | 5.198.143   | 8,4%                |
 | BARCELONA-EL PRAT J.T.         | 3.695.529   | 5,4%                |
 | GRAN CANARIA                   | 1.370.749   | 6,2%                |
@@ -58,6 +59,34 @@ Departamento de Estadísticas
 | MADRID-CUATRO VIENTOS          | 70          | 2,9%                |
 | BURGOS                         | 0           | -100,0%             |
 
+| SÃO PAULO/CONGONHAS          | 2.049.846   | 6,2%   |
+|------------------------------|-------------|--------|
+| CAMPO GRANDE                 | 142.640     | 25,6%  |
+| UBERLÂNDIA                   | 89.161      | 7,1%   |
+| SANTARÉM                     | 40.341      | 1,2%   |
+| MONTES CLAROS                | 30.880      | 12,2%  |
+| MARABÀ                       | 29.927      | 1,9%   |
+| CARAJÀS                      | 20.000      | 29,3%  |
+| UBERABA                      | 10.405      | 20,8%  |
+| ALTAMIRA                     | 6.465       | -36,6% |
+| PONTA PORÃ                   | 2.671       | -47,3% |
+| CORUMBÁ                      | 1.799       | -28,7% |
+| Total BOAB                   | 2.424.135   | 7,0%   |
+| RECIFE                       | 948.273     | 1,5%   |
+| MACEIÓ                       | 319.811     | 7,5%   |
+| JOAO PESSOA                  | 181.402     | 4,7%   |
+| ARACAJU                      | 135.646     | 5,8%   |
+| JUAZEIRO DO NORTE            | 48.581      | 8,5%   |
+| CAMPINA GRANDE               | 12.670      | -59,4% |
+| Total ANB                    | 1.646.383   | 2,3%   |
+| Total aeropuertos brasileños | 4.070.518   | 5,0%   |
+| LONDRES-LUTON                | 1.127.841   | 11,9%  |
+| Total Red Aena               | 24.999.784  | 6,2%   |
+
+
+### OPERACIONES
+|                                | OPERACIONES   | OPERACIONES     |
+|--------------------------------|---------|-----------------------|
 | Aeropuertos                    | Total   | % Inc 2025 /s  2024   |
 |--------------------------------|---------|-----------------------|
 | ADOLFO SUÁREZ MADRID-BARAJAS   | 33.811  | 6,9%                  |
@@ -111,6 +140,39 @@ Departamento de Estadísticas
 | ALBACETE                       | 62      | 10,7%                 |
 | Total aeropuertos españoles    | 174.488 | 5,2%                  |
 
+| SÃO PAULO/CONGONHAS          |   18.211 | -5,3%   |
+|------------------------------|----------|---------|
+| UBERLÂNDIA                   |    1.666 | 9,7%    |
+| CAMPO GRANDE                 |    1.247 | 6,6%    |
+| MONTES CLAROS                |  867     | 10,7%   |
+| SANTARÉM                     |  848     | -2,0%   |
+| MARABÀ                       |  502     | 16,7%   |
+| UBERABA                      |  369     | -14,0%  |
+| CARAJÀS                      |  362     | 34,6%   |
+| ALTAMIRA                     |  191     | 9,8%    |
+| PONTA PORÃ                   |  167     | -22,7%  |
+| CORUMBÁ                      |   75     | -37,0%  |
+| Total BOAB                   |   24.505 | -2,8%   |
+| RECIFE                       |    8.154 | -4,3%   |
+| MACEIÓ                       |    2.569 | -2,3%   |
+| JOAO PESSOA                  |    1.599 | 0,7%    |
+| ARACAJU                      |    1.411 | 0,2%    |
+| JUAZEIRO DO NORTE            |  562     | -4,7%   |
+| CAMPINA GRANDE               |  231     | -48,3%  |
+| Total ANB                    |   14.526 | -4,3%   |
+| Total aeropuertos brasileños |   39.031 | -3,4%   |
+| LONDRES-LUTON                |    9.177 | 6,3%    |
+| Total Red Aena               |  222.696 | 3,6%    |
+
+Todos los datos son sobre el total. - Sin tráfico el año anterior
+
+El total de pasajeros del aeropuerto de Londres-Luton solo incluye los pasajeros comerciales, excluyendo los niños menores de 2 años
+
+
+### MERCANCIAS
+
+|                                | MERCANCIAS | MERCANCIAS            |
+|--------------------------------|------------|-----------------------|
 | Aeropuertos                    | Total      | % Inc 2025 /s  2024   |
 |--------------------------------|------------|-----------------------|
 | ADOLFO SUÁREZ MADRID-BARAJAS   | 58.850.296 | 6,9%                  |
@@ -164,60 +226,6 @@ Departamento de Estadísticas
 | VALLADOLID                     | 0          | ---                   |
 | Total aeropuertos españoles    | 95.824.005 | 4,4%                  |
 
-Total aeropuertos españoles
-
-19.801.425
-
-6,1%
-
-| SÃO PAULO/CONGONHAS          | 2.049.846   | 6,2%   |
-|------------------------------|-------------|--------|
-| CAMPO GRANDE                 | 142.640     | 25,6%  |
-| UBERLÂNDIA                   | 89.161      | 7,1%   |
-| SANTARÉM                     | 40.341      | 1,2%   |
-| MONTES CLAROS                | 30.880      | 12,2%  |
-| MARABÀ                       | 29.927      | 1,9%   |
-| CARAJÀS                      | 20.000      | 29,3%  |
-| UBERABA                      | 10.405      | 20,8%  |
-| ALTAMIRA                     | 6.465       | -36,6% |
-| PONTA PORÃ                   | 2.671       | -47,3% |
-| CORUMBÁ                      | 1.799       | -28,7% |
-| Total BOAB                   | 2.424.135   | 7,0%   |
-| RECIFE                       | 948.273     | 1,5%   |
-| MACEIÓ                       | 319.811     | 7,5%   |
-| JOAO PESSOA                  | 181.402     | 4,7%   |
-| ARACAJU                      | 135.646     | 5,8%   |
-| JUAZEIRO DO NORTE            | 48.581      | 8,5%   |
-| CAMPINA GRANDE               | 12.670      | -59,4% |
-| Total ANB                    | 1.646.383   | 2,3%   |
-| Total aeropuertos brasileños | 4.070.518   | 5,0%   |
-| LONDRES-LUTON                | 1.127.841   | 11,9%  |
-| Total Red Aena               | 24.999.784  | 6,2%   |
-
-| SÃO PAULO/CONGONHAS          |   18.211 | -5,3%   |
-|------------------------------|----------|---------|
-| UBERLÂNDIA                   |    1.666 | 9,7%    |
-| CAMPO GRANDE                 |    1.247 | 6,6%    |
-| MONTES CLAROS                |  867     | 10,7%   |
-| SANTARÉM                     |  848     | -2,0%   |
-| MARABÀ                       |  502     | 16,7%   |
-| UBERABA                      |  369     | -14,0%  |
-| CARAJÀS                      |  362     | 34,6%   |
-| ALTAMIRA                     |  191     | 9,8%    |
-| PONTA PORÃ                   |  167     | -22,7%  |
-| CORUMBÁ                      |   75     | -37,0%  |
-| Total BOAB                   |   24.505 | -2,8%   |
-| RECIFE                       |    8.154 | -4,3%   |
-| MACEIÓ                       |    2.569 | -2,3%   |
-| JOAO PESSOA                  |    1.599 | 0,7%    |
-| ARACAJU                      |    1.411 | 0,2%    |
-| JUAZEIRO DO NORTE            |  562     | -4,7%   |
-| CAMPINA GRANDE               |  231     | -48,3%  |
-| Total ANB                    |   14.526 | -4,3%   |
-| Total aeropuertos brasileños |   39.031 | -3,4%   |
-| LONDRES-LUTON                |    9.177 | 6,3%    |
-| Total Red Aena               |  222.696 | 3,6%    |
-
 | SÃO PAULO/CONGONHAS          | 3.991.225   | 18,8%   |
 |------------------------------|-------------|---------|
 | CAMPO GRANDE                 | 173.121     | -17,9%  |
@@ -241,15 +249,3 @@ Total aeropuertos españoles
 | Total aeropuertos brasileños | 10.051.667  | 18,2%   |
 | LONDRES-LUTON                | 2.288.291   | 7,1%    |
 | Total Red Aena               | 108.163.963 | 5,6%    |
-
-Todos los datos son sobre el total. - Sin tráfico el año anterior
-
-El total de pasajeros del aeropuerto de Londres-Luton solo incluye los pasajeros comerciales, excluyendo los niños menores de 2 años
-
-## Datos provisionales
-
-## OPERACIONES
-
-## MERCANCÍA
-
-## Mensual: Enero de 2025 LLEGADAS Y SALIDAS
