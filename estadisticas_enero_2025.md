@@ -58,6 +58,7 @@ Departamento de Estadísticas
 | HUESCA-PIRINEOS                | 113         | ---                 |
 | MADRID-CUATRO VIENTOS          | 70          | 2,9%                |
 | BURGOS                         | 0           | -100,0%             |
+| Total aeropuertos españoles    | 19.801.425  |  6,1%
 
 | SÃO PAULO/CONGONHAS          | 2.049.846   | 6,2%   |
 |------------------------------|-------------|--------|
@@ -137,8 +138,7 @@ El total de pasajeros del aeropuerto de Londres-Luton solo incluye los pasajeros
 | SAN SEBASTIÁN                  | 339     | -4,8%                 |
 | LEÓN                           | 268     | 56,7%                 |
 | BADAJOZ                        | 260     | 1,2%                  |
-| ALGECIRAS /HELIPUERTO          |         |                       |
-|                                | 244     | -15,9%                |
+| ALGECIRAS /HELIPUERTO          | 244     | -15,9%                |
 | HUESCA-PIRINEOS                | 156     | 136,4%                |
 | ALBACETE                       | 62      | 10,7%                 |
 | Total aeropuertos españoles    | 174.488 | 5,2%                  |
