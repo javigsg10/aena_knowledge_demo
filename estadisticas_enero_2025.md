@@ -6,6 +6,8 @@ Departamento de Estadísticas
 ## Mensual: Enero de 2025 LLEGADAS Y SALIDAS
 ### PASAJEROS
 
+La tabla muestra el número de pasajeros que llegaron y salieron de diversos aeropuertos en enero de 2025, junto con el porcentaje de incremento o disminución respecto a enero de 2024. Se presentan datos de aeropuertos en España, Brasil y un aeropuerto en Reino Unido (Londres-Luton). La información incluye el total de pasajeros por aeropuerto y el cambio porcentual en comparación con el año anterior. También se muestran totales agrupados para aeropuertos españoles, brasileños y la red total de Aena.
+
 |                                | PASAJEROS   | PASAJEROS           |
 |--------------------------------|-------------|---------------------|
 | Aeropuertos                    | Total       | % Inc 2025 /s  2024 |
@@ -89,6 +91,8 @@ El total de pasajeros del aeropuerto de Londres-Luton solo incluye los pasajeros
 
 
 ### OPERACIONES
+La tabla muestra el número de operaciones que se realizaron en diversos aeropuertos en enero de 2025, junto con el porcentaje de incremento o disminución respecto a enero de 2024. Se presentan datos de aeropuertos en España, Brasil y un aeropuerto en Reino Unido (Londres-Luton). La información incluye el total de pasajeros por aeropuerto y el cambio porcentual en comparación con el año anterior. También se muestran totales agrupados para aeropuertos españoles, brasileños y la red total de Aena.
+
 |                                | OPERACIONES   | OPERACIONES     |
 |--------------------------------|---------|-----------------------|
 | Aeropuertos                    | Total   | % Inc 2025 /s  2024   |
@@ -169,6 +173,8 @@ El total de pasajeros del aeropuerto de Londres-Luton solo incluye los pasajeros
 
 
 ### MERCANCIAS
+
+La tabla muestra el número de mercancías transportadas en diversos aeropuertos en enero de 2025, junto con el porcentaje de incremento o disminución respecto a enero de 2024. Se presentan datos de aeropuertos en España, Brasil y un aeropuerto en Reino Unido (Londres-Luton). La información incluye el total de pasajeros por aeropuerto y el cambio porcentual en comparación con el año anterior. También se muestran totales agrupados para aeropuertos españoles, brasileños y la red total de Aena.
 
 |                                | MERCANCIAS | MERCANCIAS            |
 |--------------------------------|------------|-----------------------|
