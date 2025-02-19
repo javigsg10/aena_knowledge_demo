@@ -334,7 +334,7 @@ Palma de Mallorca (-5,8%)
 Alicante (-4,5%)
 
 Aeropuertos sin actividad de carga:
-16 aeropuertos, incluyendo Pampiona (-100%), León, Logroño, Jerez de la Frontera, Ceuta y otros.
+20 aeropuertos no tuvieron mercancías, incluyendo Pamplona (-100%), León, Logroño, Jerez de la Frontera, Ceuta y otros.
 
 En Brasil se transportaron 10.051.667 mercancías, con un crecimiento del 18,2%.
 Aeropuertos con mayor volumen de carga:
