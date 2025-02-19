@@ -89,6 +89,20 @@ La tabla muestra el número de pasajeros que llegaron y salieron de diversos aer
 Todos los datos son sobre el total. - Sin tráfico el año anterior
 El total de pasajeros del aeropuerto de Londres-Luton solo incluye los pasajeros comerciales, excluyendo los niños menores de 2 años
 
+España: Se registraron 19,8 millones de pasajeros, con un crecimiento general del 6,1%.
+
+El aeropuerto con mayor tráfico fue Madrid-Barajas, con 5,2 millones de pasajeros (+8,4%), seguido de Barcelona-El Prat con 3,7 millones (+5,4%).
+Los aeropuertos con mayor crecimiento relativo fueron Albacete (+214,1%), Salamanca (+89,5%) y Reus (+79,9%).
+En contraste, algunos aeropuertos presentaron descensos notables, como Valladolid (-22,1%), Córdoba (-19,9%) y Santander (-10,7%).
+Burgos no registró actividad en enero de 2025 (-100%).
+Brasil: Se transportaron 4,07 millones de pasajeros (+5,0%).
+
+Los aeropuertos más concurridos fueron São Paulo/Congonhas (2,05 millones, +6,2%) y Recife (948.273, +1,5%).
+Se registraron incrementos importantes en Campo Grande (+25,6%) y Carajás (+29,3%), mientras que Ponta Porã (-47,3%) y Campina Grande (-59,4%) sufrieron fuertes caídas.
+Reino Unido (Londres-Luton): Movilizó 1,12 millones de pasajeros, con un aumento del 11,9% respecto al año anterior.
+
+Red Aena (sumando todos los aeropuertos gestionados): Alcanzó 24.999.784 millones de pasajeros, reflejando un crecimiento global del 6,2%.
+
 
 ### OPERACIONES
 La tabla muestra el número de operaciones que se realizaron en diversos aeropuertos en enero de 2025, junto con el porcentaje de incremento o disminución respecto a enero de 2024. Se presentan datos de aeropuertos en España, Brasil y un aeropuerto en Reino Unido (Londres-Luton). La información incluye el total de pasajeros por aeropuerto y el cambio porcentual en comparación con el año anterior. También se muestran totales agrupados para aeropuertos españoles, brasileños y la red total de Aena.
@@ -170,6 +184,47 @@ La tabla muestra el número de operaciones que se realizaron en diversos aeropue
 | Total aeropuertos brasileños |   39.031 | -3,4%   |
 | LONDRES-LUTON                |    9.177 | 6,3%    |
 | Total Red Aena               |  222.696 | 3,6%    |
+
+En España se registraron 174.488 operaciones, con un crecimiento general del 5,2%. Los aeropuertos con mayor número de operaciones:
+
+Madrid-Barajas: 33.811 operaciones (+6,9%)
+Barcelona-El Prat: 24.585 operaciones (+4,1%)
+Gran Canaria: 12.170 operaciones (+6,3%)
+
+Aeropuertos con mayor crecimiento relativo en el número de operaciones:
+Logroño: +685,7%
+Huesca-Pirineos: +136,4%
+La Gomera: +69,7%
+León: +56,7%
+Córdoba: +51,1%
+Girona-Costa Brava: +57,0%
+
+Aeropuertos con disminución significativa en el número de operaciones:
+Burgos (-33,0%)
+Campina Grande (-48,3%)
+Corumbá (-37,0%)
+Ponta Porã (-22,7%)
+Vigo (-19,6%)
+Jerez de la Frontera (-19,0%)
+Ceuta / Helipuerto (-17,1%)
+
+En Brasil se registraron 39.031 operaciones, con una caída del 3,4%.Aeropuerto con más operaciones:
+
+São Paulo/Congonhas: 18.211 operaciones (-5,3%)
+
+Aeropuertos con aumento notable en el número de operaciones:
+Carajás (+34,6%)
+Marabá (+16,7%)
+Montes Claros (+10,7%)
+
+Aeropuertos con mayores caídas:
+Campina Grande (-48,3%)
+Corumbá (-37,0%)
+Ponta Porã (-22,7%)
+
+En Reino Unido (Londres-Luton) se realizaron 9.177 operaciones, con un crecimiento del 6,3% respecto al año anterior.
+
+En total, la red de Aena registró 222.696 operaciones, con un crecimiento global del 3,6%
 
 
 ### MERCANCIAS
@@ -254,3 +309,52 @@ La tabla muestra el número de mercancías transportadas en diversos aeropuertos
 | Total aeropuertos brasileños | 10.051.667  | 18,2%   |
 | LONDRES-LUTON                | 2.288.291   | 7,1%    |
 | Total Red Aena               | 108.163.963 | 5,6%    |
+
+En España se transportaron 95.824.005 mercancías, con un crecimiento del 4,4%.
+Principales aeropuertos en volumen de carga:
+Madrid-Barajas: 58.850.296 (+6,9%)
+Barcelona-El Prat: 13.399.371 (-1,8%)
+Zaragoza: 11.597.404 (+7,5%)
+Vitoria: 5.732.225 (-3,9%)
+
+Aeropuertos con mayor crecimiento relativo en el número de mercancías:
+Asturias (+211,3%)
+Melilla (+79,6%)
+Málaga (+71,5%)
+Bilbao (+17,6%)
+Ibiza (+9,8%)
+El Hierro (+9,3%)
+
+Aeropuertos con mayores caídas en el número de mercancías:
+Santiago-Rosalía de Castro (-30,4%)
+La Palma (-12,8%)
+Fuerteventura (-9,5%)
+Menorca (-6,9%)
+Palma de Mallorca (-5,8%)
+Alicante (-4,5%)
+
+Aeropuertos sin actividad de carga:
+16 aeropuertos, incluyendo Pampiona (-100%), León, Logroño, Jerez de la Frontera, Ceuta y otros.
+
+En Brasil se transportaron 10.051.667 mercancías, con un crecimiento del 18,2%.
+Aeropuertos con mayor volumen de carga:
+São Paulo/Congonhas: 3.991.225 (+18,8%)
+Recife: 4.520.264 (+23,0%)
+
+Aeropuertos con mayor crecimiento en el número de mercancías:
+Juazeiro do Norte (+44,2%)
+Uberaba (+38,2%)
+Maceió (+26,3%)
+João Pessoa (+26,0%)
+Campina Grande (+25,2%)
+
+Aeropuertos con mayores caídas en el número de mercancías:
+Corumbá (-78,7%)
+Altamira (-54,9%)
+Carajás (-30,1%)
+Santarém (-29,4%)
+
+En Reino Unido (Londres-Luton) se transportaron 2.288.291 mercancías, con un aumento del 7,1% respecto a enero de 2024.
+En total, la red de Aena transportó 108.163.963 mercancías, con un incremento global del 5,6%.
+
+
